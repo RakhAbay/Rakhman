@@ -1,0 +1,94 @@
+body{
+  font-family: 'Chakra Petch', sans-serif;
+  font-family: 'Righteous', cursive;
+  background-color: #191a1c;
+  color: white;
+  margin: 0px;
+}
+
+.twh{
+  border-style: none;
+  border-bottom-style: inset;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.bwh{
+  border-style: none;
+  border-top-style: inset;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.up{
+  height: 50px;
+  width: 100%;
+  padding: 10px 0px 10px 0px;
+  background-color: black;
+  content: 50px;
+  font-size: 40px;
+}
+
+
+.e{
+  margin-left: 1100px;
+}
+
+.bio{
+  font-size: 25px;
+  border-style: dashed;
+  border-color: white;
+  width: 600px;
+  height: 300px;
+  margin: 0px;
+  padding: 5px;
+}
+
+.hobby{
+  font-size: 19px;
+  border-style: dashed;
+  border-color: white;
+  width: 600px;
+  height: 300px;
+  margin-left: 615px;
+  padding: 5px;
+}
+
+.skills{
+  font-size: 20px;
+  border-style: dashed;
+  border-color: white;
+  width: 600px;
+  height: 300px;
+  margin-left: 1230px;
+  padding: 5px;
+}
+
+.bottom{
+  background-color: black;
+  margin: 10px 0px 0px 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+.checked{
+  color: gold;
+}
+
+.con{
+  margin-top: 100px;
+  color: black;
+  background-color: white;
+  text-align: center;
+
+}
+
+.img{
+  height: 50px;
+  width: 50px;
+}
+
+.vk{
+  height: 50px;
+  width: 80px;
+}
